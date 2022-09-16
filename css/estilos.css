@@ -1,12 +1,37 @@
+<<<<<<< HEAD
 body 
 {
     color: #333;
     text-align: center;
     font-family: "Courier";
+=======
+body
+{
+    color: #333;
+    text-align: center;
+    font-family: "Arial";
+>>>>>>> 031b5d3b543b52447371128c8102c8d8cc0a522a
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+=======
+
+#cabecera
+{
+    background: #33d;
+    color: white;
+    margin: 0;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+}
+
+>>>>>>> 031b5d3b543b52447371128c8102c8d8cc0a522a
 #container
 {
     width: 70%;
